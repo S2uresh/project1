@@ -1,6 +1,5 @@
 # project1 code pipeline predefine install softwares
 
-
 #!/bin/bash
 sudo yum -y update
 sudo yum -y install ruby
